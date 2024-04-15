@@ -56040,7 +56040,7 @@ A.Zo.prototype={}
 A.OK.prototype={
 aDm(a,b,c){var s=this
 s.f=!0
-s.id="https://ppxapi.ppxsuper.com/"
+s.id="https://stagingapi.ppxsuper.com"
 s.k1=B.bC
 s.fR(b,c)
 s.k3=a
@@ -56717,7 +56717,7 @@ J(a){return A.Wn(null,this.r,this.e,null,null,this.ax)}}
 A.RV.prototype={
 a6u(a,b,c){var s=this
 s.f=!0
-s.id="https://ppxapi.ppxsuper.com/"
+s.id="https://stagingapi.ppxsuper.com"
 s.k1=B.bC
 s.k3=a
 s.fR(b,c)
@@ -56725,7 +56725,7 @@ s.fS("API/getjackpotprize")
 return s.fp().aQ(0,new A.ahJ(s),t.P).dG(new A.ahK(s))},
 avb(a,b,c){var s=this
 s.f=!0
-s.id="https://ppxapi.ppxsuper.com/"
+s.id="https://stagingapi.ppxsuper.com"
 s.k1=B.bC
 s.k3=a
 s.fR(b,c)
@@ -56765,7 +56765,7 @@ s.fS("loadLcGameListV2")
 return s.fp().aQ(0,new A.ahD(s),t.P).dG(new A.ahE(s))},
 a8t(a,b,c){var s=this
 s.f=!0
-s.id="https://ppxapi.ppxsuper.com/"
+s.id="https://stagingapi.ppxsuper.com"
 s.k1=B.bC
 s.k3=a
 s.fR(b,c)
@@ -56787,7 +56787,7 @@ s.fS("getMobileGameListVersion2")
 return s.fp().aQ(0,new A.ahF(s),t.P).dG(new A.ahG(s))},
 a6B(a,b,c){var s=this
 s.f=!0
-s.id="https://ppxapi.ppxsuper.com/"
+s.id="https://stagingapi.ppxsuper.com"
 s.k1=B.bC
 s.k3=a
 s.fR(b,c)
@@ -58541,7 +58541,7 @@ return s}}
 A.T7.prototype={
 aBk(a,b,c){var s=this
 s.f=!0
-s.id="https://ppxapi.ppxsuper.com/"
+s.id="https://stagingapi.ppxsuper.com"
 s.k1=B.bC
 s.k3=a
 s.fR(b,c)
@@ -58549,7 +58549,7 @@ s.fS("API/Login")
 return s.fp().aQ(0,new A.ank(s),t.P).dG(new A.anl(s))},
 PS(a,b,c){var s=this
 s.f=!0
-s.id="https://ppxapi.ppxsuper.com/"
+s.id="https://stagingapi.ppxsuper.com"
 s.k1=B.bC
 s.k3=a
 s.fR(b,c)
@@ -59007,7 +59007,7 @@ $S:168}
 A.Vd.prototype={
 a2r(a,b,c){var s=this
 s.f=!0
-s.id="https://ppxapi.ppxsuper.com/"
+s.id="https://stagingapi.ppxsuper.com"
 s.k1=B.bC
 s.k3=a
 s.fR(b,c)
@@ -59022,7 +59022,7 @@ $S:3}
 A.WS.prototype={
 aEm(a,b,c){var s=this
 s.f=!0
-s.id="https://ppxapi.ppxsuper.com/"
+s.id="https://stagingapi.ppxsuper.com"
 s.k1=B.bC
 s.k3=a
 s.fR(b,c)
@@ -59030,7 +59030,7 @@ s.fS("API/statement")
 return s.fp().aQ(0,new A.auG(s),t.P).dG(new A.auH(s))},
 a6h(a,b,c){var s=this
 s.f=!0
-s.id="https://ppxapi.ppxsuper.com/"
+s.id="https://stagingapi.ppxsuper.com"
 s.k1=B.bC
 s.k3=a
 s.fR(b,c)
